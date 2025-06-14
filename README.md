@@ -1,10 +1,10 @@
 # Samsung-Electronics-Internship-Project
 Joined the AI Analytics group, which manages network systems using AI technologies. My role involved working on a project to create an AI model for Network Time Series Forecasting. This model is designed to predict various network related data, enhancing the accuracy and efficiency of network forecasting.
 
-1. # Objective
+1. # 1. Objective
 Evaluating the applicability and performance of open-source multivariate time-series forecasting models for analyzing and predicting network data.
 
-2. # Models
+# 2. Models
 2.1. PatchTST
 utilizes a novel patching mechanism where time-series are divided into segments (patches) before being fed into a transformer encoder
 allows the model to effectively capture both local temporal patterns within patches and global dependencies across the entire time-series
@@ -19,7 +19,7 @@ Benefits: computational efficiency compared to pure transformer models while mai
 Weaknesses: compared to transformer models, sometimes struggle with extremely long-range dependencies
 Resources: Model Card, Tutorial, Paper
 
-3. # Experiments
+# Experiments
 3.1. Practice (ETL & Tutorial)
 Dataset : ETTh1 (Open-source dataset)
 Results
@@ -33,6 +33,6 @@ PatchTSMixer performs better than PatchTST
 Performance Improvement of PatchTST over PatchTST (measured with MSE)
 {RRC_CONN: +65%, AIR_RLC_BYTES: 88%, ACTIVE_UE: 95%, PRB_TOTAL: +50%}
 
-4. # Conclusion
+# 4. Conclusion
 PatchTSMixer performs better than PatchTST with faster inference.
 Both models require accurate context length and forecast horizon value. 
