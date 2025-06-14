@@ -17,7 +17,7 @@ Patching Concept + MLP-based mixing strategy
 capable to pay attention to multiple resolutions and channels
 Benefits: computational efficiency compared to pure transformer models while maintaining competitive forecasting performance
 Weaknesses: compared to transformer models, sometimes struggle with extremely long-range dependencies
-Resources: Model Card, Tutorial, Paper
+Resources: [Link Text](https://huggingface.co/docs/transformers/en/model_doc/patchtsmixer).Model Card, Tutorial, Paper
 
 ## Experiments
 ### 3.1. Practice (ETL & Tutorial)
