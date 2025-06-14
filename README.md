@@ -10,7 +10,7 @@ utilizes a novel patching mechanism where time-series are divided into segments 
 allows the model to effectively capture both local temporal patterns within patches and global dependencies across the entire time-series
 Benefits: able to learn long-range correlations, making it suitable for complex and high-dimensional data
 Weaknesses:  computationally intensive
-Resources: Model Card, Tutorial, Paper
+Resources: [Model Card](https://huggingface.co/docs/transformers/en/model_doc/patchtst),[Tutorial](https://github.com/ibm-granite/granite-tsfm/blob/main/notebooks/hfdemo/patch_tsmixer_getting_started.ipynb), [Paper](https://arxiv.org/pdf/2306.09364)
 
 ### 2.2. PatchTSMixer
 Patching Concept + MLP-based mixing strategy
