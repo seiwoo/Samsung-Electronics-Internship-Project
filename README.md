@@ -2,8 +2,8 @@
 Joined the AI Analytics group, which manages network systems using AI technologies. My role involved working on a project to create an AI model for Network Time Series Forecasting. This model is designed to predict various network related data, enhancing the accuracy and efficiency of network forecasting.
 
 1. Objective
-evaluating the applicability and performance of open-source multivariate time-series forecasting models for analyzing and predicting network data.
-2. Models
+Evaluating the applicability and performance of open-source multivariate time-series forecasting models for analyzing and predicting network data.
+3. Models
 2.1. PatchTST
 utilizes a novel patching mechanism where time-series are divided into segments (patches) before being fed into a transformer encoder
 allows the model to effectively capture both local temporal patterns within patches and global dependencies across the entire time-series
