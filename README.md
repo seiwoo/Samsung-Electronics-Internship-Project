@@ -17,7 +17,7 @@ Patching Concept + MLP-based mixing strategy
 capable to pay attention to multiple resolutions and channels
 Benefits: computational efficiency compared to pure transformer models while maintaining competitive forecasting performance
 Weaknesses: compared to transformer models, sometimes struggle with extremely long-range dependencies
-Resources: [Model Card](https://huggingface.co/docs/transformers/en/model_doc/patchtsmixer),[Tutorial](https://github.com/ibm-granite/granite-tsfm/blob/main/notebooks/hfdemo/patch_tsmixer_getting_started.ipynb), [Paper] (https://arxiv.org/pdf/2306.09364)
+Resources: [Model Card](https://huggingface.co/docs/transformers/en/model_doc/patchtsmixer),[Tutorial](https://github.com/ibm-granite/granite-tsfm/blob/main/notebooks/hfdemo/patch_tsmixer_getting_started.ipynb), [Paper](https://arxiv.org/pdf/2306.09364)
 
 ## Experiments
 ### 3.1. Practice (ETL & Tutorial)
