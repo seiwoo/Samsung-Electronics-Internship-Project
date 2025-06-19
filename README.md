@@ -10,6 +10,7 @@ AI技術を用いてネットワークシステムを管理するAIアナリテ�
 Evaluating the applicability and performance of open-source multivariate time-series forecasting models for analyzing and predicting network data.
 
 (日本語)
+オープンソースの多変量時系列予測モデルを活用し、ネットワークデータの分析および予測における適用可能性と性能評価を実施しました。
 
 ## 2. Models
 ### 2.1. PatchTST
