@@ -37,4 +37,4 @@ Performance Improvement of PatchTST over PatchTST (measured with MSE)
 PatchTSMixer performs better than PatchTST with faster inference.
 Both models require accurate context length and forecast horizon value. 
 
-**Unable to provide Code for company policies**
+## **Unable to provide Code for company policies**
